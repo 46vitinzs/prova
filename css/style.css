@@ -1,0 +1,23 @@
+@import url(banner.css);
+
+.listaNav
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+header
+{
+    width: 100%;
+    background-color: rgb(15, 15, 14);
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+}
+
+.listaNav li
+{
+    font-size: 12px;
+    margin: 1rem;
+}
+
